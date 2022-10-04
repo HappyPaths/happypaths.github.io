@@ -109,12 +109,12 @@ a:hover {
 }
 html {
   #background-color: #061C30;
-  background-color: #89ABE3FF;
+  background-color: #84B59F;
 }
 
 body.page-template-page-fullsingle-split {
   #background-color: #061C30;
-  background-color: #9dc3d7;
+  background-color: #84B59F;
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 21px;
@@ -124,7 +124,7 @@ body.page-template-page-fullsingle-split {
   animation: fadein 2s;
 }
 body.page-template-page-fullsingle-split p {
-  color: #FCF6F5FF;
+  color: #DDD8C4;
 }
 
 .fs-split {
